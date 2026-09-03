@@ -1,3 +1,5 @@
+## This mapping code was written entirely by ChatGPT
+
 giftor_map = {
     # Bangladesh
     "Intl Ctr for Diarrhoeal Disease": "International Centre for Diarrhoeal Disease",
